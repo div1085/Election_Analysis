@@ -11,11 +11,11 @@
 7. Calculate the percentage of votes from each county out of the total.
 8. Determine the county with the highest turnout.
 
-##Election-Audit Results
-
-![Election Results](https://github.com/div1085/Election_Analysis/blob/07bc2282ef910105238bd2dc11ef3d7b83175b7f/Resources/election_results.PNG)
+## Election Audit Results
 
 There were 369,711 votes cast in the election. Out of which Jefferson accounted 10.5% of votes (38,855 votes in total), whereas Denver was the largest county accounting for 82.8% of votes(306,055 total votes), and Arapahoe produced remaining 6.7% of votes (total 24,801 votes)
+
+![Election Results](https://github.com/div1085/Election_Analysis/blob/07bc2282ef910105238bd2dc11ef3d7b83175b7f/Resources/election_results.PNG)
 
 The three candidates were, Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane
 With the respective results as follows:
