@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Counties in Election
 -------------
 Arapahoe
 Denver
+=======
+Counties in Election
+-------------
+Arapahoe
+Denver
+>>>>>>> 438e66ef5ebf5311c9ae7d3a826cc8233bebace5
 Jefferson
